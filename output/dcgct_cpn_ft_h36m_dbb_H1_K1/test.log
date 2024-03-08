@@ -1,0 +1,92 @@
+Mode:p_avg   Step:1
+===Action=== ==p#1 mm== =p#2 mm=
+Directions    42.88      34.33
+Discussion    48.27      37.71
+Eating        44.21      35.43
+Greeting      47.63      39.39
+Phoning       50.42      39.56
+Photo         57.12      44.35
+Posing        45.85      36.16
+Purchases     44.32      33.92
+Sitting       55.82      44.47
+SittingDown   61.13      49.17
+Smoking       48.69      39.29
+Waiting       45.07      34.42
+WalkDog       52.30      41.38
+Walking       37.05      29.65
+WalkTogether  38.33      32.46
+Average       47.94      38.11
+====Step==== ==p#1 mm== =p#2 mm=
+1             47.94      38.11
+
+
+Mode:p_best   Step:1
+===Action=== ==p#1 mm== =p#2 mm=
+Directions    42.88      34.33
+Discussion    48.27      37.71
+Eating        44.21      35.43
+Greeting      47.63      39.39
+Phoning       50.42      39.56
+Photo         57.12      44.35
+Posing        45.85      36.16
+Purchases     44.32      33.92
+Sitting       55.82      44.47
+SittingDown   61.13      49.17
+Smoking       48.69      39.29
+Waiting       45.07      34.42
+WalkDog       52.30      41.38
+Walking       37.05      29.65
+WalkTogether  38.33      32.46
+Average       47.94      38.11
+====Step==== ==p#1 mm== =p#2 mm=
+1             47.94      38.11
+
+
+Mode:j_avg   Step:1
+===Action=== ==p#1 mm== =p#2 mm=
+Directions    42.88      34.33
+Discussion    48.27      37.71
+Eating        44.21      35.43
+Greeting      47.63      39.39
+Phoning       50.42      39.56
+Photo         57.12      44.35
+Posing        45.85      36.16
+Purchases     44.32      33.92
+Sitting       55.82      44.47
+SittingDown   61.13      49.17
+Smoking       48.69      39.29
+Waiting       45.07      34.42
+WalkDog       52.30      41.38
+Walking       37.05      29.65
+WalkTogether  38.33      32.46
+Average       47.94      38.11
+====Step==== ==p#1 mm== =p#2 mm=
+1             47.94      38.11
+
+
+Mode:j_best   Step:1
+===Action=== ==p#1 mm== =p#2 mm=
+Directions    42.88      34.33
+Discussion    48.27      37.71
+Eating        44.21      35.43
+Greeting      47.63      39.39
+Phoning       50.42      39.56
+Photo         57.12      44.35
+Posing        45.85      36.16
+Purchases     44.32      33.92
+Sitting       55.82      44.47
+SittingDown   61.13      49.17
+Smoking       48.69      39.29
+Waiting       45.07      34.42
+WalkDog       52.30      41.38
+Walking       37.05      29.65
+WalkTogether  38.33      32.46
+Average       47.94      38.11
+====Step==== ==p#1 mm== =p#2 mm=
+1             47.94      38.11
+
+
+p_avg p1: 47.94, p2: 38.11 
+p_best p1: 47.94, p2: 38.11 
+j_avg p1: 47.94, p2: 38.11 
+j_best p1: 47.94, p2: 38.11
