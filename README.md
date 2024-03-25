@@ -79,7 +79,7 @@ The pretrained model is [here](https://drive.google.com/drive/folders/1AferT6j8v
 To test on Human3.6M on single frame, run:
 
 ```
-python main.py --test --previous_dir ‘checkpoint/pretrained/cpn_dcgct_4794’ --init_model ‘dcgct’ -k cpn_ft_h36m_dbb --samplimg_timestep 2 --num_proposals 2
+python main.py --test --previous_dir 'checkpoint/pretrained/cpn_dcgct_4794' --init_model 'dcgct' -k cpn_ft_h36m_dbb --samplimg_timestep 2 --num_proposals 2
 ```
 You can balance efficiency and accuracy by adjusting `--num_proposals` (number of hypotheses) and `--sampling_timesteps` (number of iterations).
 
