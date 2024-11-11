@@ -20,9 +20,9 @@
 | Method |  MPJPE(CPN) |
 |:-------|:-------:|
 | HTNet | 48.9 mm |
-| DRPose(w\ HTNet)* | 48.3 mm (-0.6)|
+| DRPose(w/ HTNet)* | 48.3 mm (-0.6)|
 | DC-GCT | 48.4 mm | 
-| DRPose(w\ DC-GCT)* | 47.9 mm (-0.5) |
+| DRPose(w/ DC-GCT)* | 47.9 mm (-0.5) |
 
 
 
@@ -33,16 +33,16 @@
 | HTNet | 48.9 mm |  39.0 mm |  34.0 mm |
 | DC-GCT | 48.4 mm |  38.2 mm |  32.4 mm |
 | GFPose* | 51.9 mm |  - |  - |
-| DRPose(w\ DC-GCT)* | 47.9 mm |  38.1 mm |  30.5 mm |
+| DRPose(w/ DC-GCT)* | 47.9 mm |  38.1 mm |  30.5 mm |
 
 - Multi-hypothesis
 
 | Method |  Hypotheses | MPJPE | P-MPJPE |
 |:-------|:-------:|:-------:|:-------:|
 | GFPose         | 10 |  45.1 mm | - |
-| DRPose(w\ DC-GCT)         | 10 |  41.8 mm | 33.7 mm |
+| DRPose(w/ DC-GCT)         | 10 |  41.8 mm | 33.7 mm |
 | GFPose         | 200 |  35.6 mm | 30.5 mm |
-| DRPose(w\ DC-GCT)         | 200 |  35.5 mm | 28.6 mm |
+| DRPose(w/ DC-GCT)         | 200 |  35.5 mm | 28.6 mm |
 
 
 
