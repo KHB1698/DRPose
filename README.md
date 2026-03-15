@@ -98,6 +98,7 @@ You can set your own initial model using `--init_model` and modify the initial m
 ## Citation
 
 If you find our work useful in your research, please consider citing:
+
     @inproceedings{kang2024diffusion,
       title={Diffusion-based pose refinement and multi-hypothesis generation for 3D human pose estimation},
       author={Kang, Hongbo and Wang, Yong and Liu, Mengyuan and Wu, Doudou and Liu, Peng and Yuan, Xinlin and Yang, Wenming},
