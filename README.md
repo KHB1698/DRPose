@@ -4,7 +4,7 @@
 
 > [**Diffusion-based Pose Refinement and Multi-Hypothesis Generation for 3D Human Pose Estimation**](https://arxiv.org/abs/2401.04921),             
 > Hongbo Kang, Yong Wang, Mengyuan Liu, Doudou Wu, Peng Liu, Wenming Yang  
-> *arXiv, 2024*
+> *ICASSP, 2024*
 
 <p align="center"><img src="figure/picture1.png" width="100%" alt="" /></p>
 
@@ -94,21 +94,25 @@ python main.py --init_model 'dcgct' -k cpn_ft_h36m_dbb --timestep 1000
 ```
 You can set your own initial model using `--init_model` and modify the initial model loading code in `main.py`. `--timestep` is the maximum diffusion time step.
 
-## Visualization
-
-> coming soon
-
-
 
 ## Citation
 
 If you find our work useful in your research, please consider citing:
-
-    @article{kang2024diffusion,
-    title={Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton},
-    author={Kang, Hongbo and Wang, Yong and Liu, Mengyuan and Wu, Doudou and Liu, Peng and Yuan, Xinlin and Yang, Wenming},
-    journal={arXiv preprint arXiv:2401.04921},
-    year={2024}
+    @inproceedings{kang2024diffusion,
+      title={Diffusion-based pose refinement and multi-hypothesis generation for 3D human pose estimation},
+      author={Kang, Hongbo and Wang, Yong and Liu, Mengyuan and Wu, Doudou and Liu, Peng and Yuan, Xinlin and Yang, Wenming},
+      booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+      pages={5130--5134},
+      year={2024},
+      organization={IEEE}
+    }
+    
+    @article{wang2026drpose,
+      title={DRPose: A Diffusion-based Pose Refinement Framework for 3D Human Pose Estimation},
+      author={Wang, Yong and Liu, Xuguang and Wang, Xiaoqing and Wu, Doudou and Yang, Wenming and Kang, Hongbo},
+      journal={IEEE Transactions on Circuits and Systems for Video Technology},
+      year={2026},
+      publisher={IEEE}
     }
 
 
